@@ -62,7 +62,7 @@ The shared task is organized as a Kaggle [competition]().
 
 There are two separate phases:
 * _Development Phase_: In this phase, the participants will use the training/development sets provided in this repository to design and develop their models.
-* _Evaluation Phase_: Ten days before the system runs are due (January 4th, 2023), the test set for the task is released in the GitHub repository. The test set has the same distribution and format as the development set. Run your model on the provided test set and save the prediction results in a JSON file with the same format as the "predictions.json" file. Name the prediction file "output.json" and submit it to the CodaLab/Kaggle [competition page]().
+* _Evaluation Phase_: Ten days before the system runs are due (January 4th, 2023), the test set for the task is released in the GitHub repository. The test set has the same distribution and format as the development set. Run your model on the provided test set and save the prediction results in a JSON file with the same format as the "predictions.json" file. Name the prediction file "output.json" and submit it to the Kaggle [competition page]().
 
 For more information, see [SDU@AAAI-23]().
 
