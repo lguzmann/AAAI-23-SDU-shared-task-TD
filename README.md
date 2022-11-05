@@ -58,7 +58,7 @@ Please note that the scorer file requires the [seqeval](https://github.com/chakk
 # Participation
 In order to participate, please first fill out [this form](https://forms.gle/ks3snBYXgoTQr3iH7) to register for the shared task. The team name that is provided in this form will be used in subsequent submissions and communications. 
 
-The shared task is organized as a CodaLab/Kaggle [competition]().
+The shared task is organized as a Kaggle [competition]().
 
 There are two separate phases:
 * _Development Phase_: In this phase, the participants will use the training/development sets provided in this repository to design and develop their models.
