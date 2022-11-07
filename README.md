@@ -58,13 +58,13 @@ Please note that the scorer file requires the [seqeval](https://github.com/chakk
 # Participation
 In order to participate, please first fill out [this form](https://forms.gle/ks3snBYXgoTQr3iH7) to register for the shared task. The team name that is provided in this form will be used in subsequent submissions and communications. 
 
-The shared task is organized as a Kaggle [competition]().
+The shared task is organized as a Kaggle [competition](https://www.kaggle.com/competitions/jargon-detection).
 
 There are two separate phases:
 * _Development Phase_: In this phase, the participants will use the training/development sets provided in this repository to design and develop their models.
-* _Evaluation Phase_: Ten days before the system runs are due (January 4th, 2023), the test set for the task is released in the GitHub repository. The test set has the same distribution and format as the development set. Run your model on the provided test set and save the prediction results in a JSON file with the same format as the "predictions.json" file. Name the prediction file "output.json" and submit it to the Kaggle [competition page]().
+* _Evaluation Phase_: Ten days before the system runs are due (January 4th, 2023), the test set for the task is released in the GitHub repository. The test set has the same distribution and format as the development set. Run your model on the provided test set and save the prediction results in a JSON file with the same format as the "predictions.json" file. Name the prediction file "output.json" and submit it to the Kaggle [competition page](https://www.kaggle.com/competitions/jargon-detection).
 
-For more information, see [SDU@AAAI-23]().
+For more information, see [SDU@AAAI-23](https://sites.google.com/view/sdu-aaai23).
 
 # Licences
 The dataset provided for this shared task is licensed under [CC BY-NC-SA 4.0 international license](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode), and the evaluation scrip is licensed under MIT License.
