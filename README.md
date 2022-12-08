@@ -55,6 +55,24 @@ For verbose evaluation that includes domain-specific values, use the following c
 
 Please note that the scorer file requires the [seqeval](https://github.com/chakki-works/seqeval) module.
 
+# Baselines
+
+The [code](https://github.com/lguzmann/AAAI-23-SDU-shared-task-TD/tree/main/code) folder contains the baseline code. Additional files that are compatible with the Transformers [Datasets library](https://huggingface.co/docs/datasets/index) have been added to the [dataset](https://github.com/lguzmann/AAAI-23-SDU-shared-task-TD/tree/main/dataset) folder.
+
+Here's the baseline performance for the full dataset and each individual domain:
+
+Full dataset
+precision: 80.29, recall: 83.23, f1: 81.74, accuracy: 96.14
+
+Computer Science domain
+precision: 88.70, recall: 80.97, f1: 84.66, accuracy: 96.51
+
+Physics domain
+precision: 76.37,  recall: 88.88, f1: 82.15, accuracy: 95.90
+
+Economics
+precision: 76.33, recall: 74.82, f1: 75.57, accuracy: 96.10
+
 # Participation
 In order to participate, please first fill out [this form](https://forms.gle/ks3snBYXgoTQr3iH7) to register for the shared task. The team name that is provided in this form will be used in subsequent submissions and communications. 
 
